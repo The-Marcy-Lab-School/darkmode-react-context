@@ -93,6 +93,7 @@ createRoot(document.getElementById('root')).render(
 ```
 
 4. Add the Context to your `App.jsx`
+
 5. Add button to toggle between the themes
 
 ```jsx
