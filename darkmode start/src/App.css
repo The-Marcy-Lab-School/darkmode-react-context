@@ -56,12 +56,3 @@ button{
   }
 
 /* TODO: add Light and Dark Mode */
-.light-mode {
-  background-color: #ffffff;
-  color: #000000;
-}
-
-.dark-mode {
-  background-color: #121212;
-  color: #ffffff;
-}
